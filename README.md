@@ -8,4 +8,4 @@ Our data is centered on movies that are on popular tv streaming services. We ret
 •	Disney Plus (Disney+ Movies and TV Shows | Kaggle)
 •	Hulu (Hulu Movies and TV Shows | Kaggle)
 
-Transforming the data answered the essential question we asked ourselves: which tv streaming service’s is the best for your buck in regards to their catalog of movies. 
+Transforming the data answered the essential question we asked ourselves: which tv streaming service is the best for your buck in regards to their catalog of movies. 
